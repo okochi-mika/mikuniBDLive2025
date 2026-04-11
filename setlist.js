@@ -1,15 +1,16 @@
 // setlist.js の冒頭
 const setlistData = [
-    { title: "1. それが、愛でしょう", id: "TMoOdbjcjGU" }, // YouTube IDを調べて入れる
-    { title: "2. all the way", id: "ZjvQ6Vj_wuw" },
-    { title: "3. Shooting Star", id: "--bHB0EumJc" }, 
-    { title: "4. 冬のナイフ", id: "c1ov6YNA10M" },
-    { title: "5. 会いたくて", id: "dtpdj9qnb8k" },
-    { title: "6. Life", id: "0mTnSzDFhyE" },
-    { title: "7. Alone", id: "JjWwfUbOP0w" },
-    { title: "8. ubiquitous", id: "UKoXBZPEYfw" },
-    { title: "9. 南風", id: "..." },
-    { title: "10. イ〜じゃナイ!?", id: "..." },
-    { title: "11. tomorrow", id: "N2_IYpXZjWU" },
-    { title: "12. TRUE", id: "..." }
+    { title: "1. pavement ", id: "bxJjiyhpKiw" }, // YouTube IDを調べて入れる
+    { title: "2. 冬のナイフ", id: "c1ov6YNA10M" },
+    { title: "3. 遠い星", id: "0Cz_jmdLYrE" }, 
+    { title: "4. Life", id: "0mTnSzDFhyE" },
+    { title: "5. 初恋の君", id: "vBfJBE0KqPc" },
+    { title: "6. Alone", id: "UKoXBZPEYfw" },
+    { title: "7. I WANNA BE FREE", id: "0mTnSzDFhyE" },
+    { title: "8. 夏花火", id: "JjWwfUbOP0w" },
+    { title: "9. それが、愛でしょう", id: "TMoOdbjcjGU" },
+    { title: "10.  南風", id: "f8Nv-5wIlbg" },
+    { title: "11. TRUE", id: "oIXAMbXmlVw" },
+    { title: "12. Bird", id: "zUhMuyswDjs" },
+    { title: "11. TRUE", id: "tHwMV_zfq2A" }
 ];
